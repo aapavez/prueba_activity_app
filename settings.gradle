@@ -16,4 +16,4 @@ rootProject.name = "My Application"
 include ':app'
 include ':routerModule'
 
-project(':routerModule').projectDir = new File('./prueba_router_app/app')
+project(':routerModule').projectDir = new File('prueba_router_app/app')
